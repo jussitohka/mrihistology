@@ -1,3 +1,3 @@
 # mrihistology
-Histologic assessment of in vivo diffusion tensor imaging after status epilepticus in rats
-The code for the paper Histologic assessment of in vivo diffusion tensor imaging after status epilepticus in rats
+Histopathological modelling based on in vivo diffusion tensor imaging during experimental epileptogenesis
+The code for the paper Histopathological modelling based on in vivo diffusion tensor imaging during experimental epileptogenesis
